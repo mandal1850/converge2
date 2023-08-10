@@ -166,7 +166,8 @@ const Home = () => {
     <Grid className='homebg2' container spacing={4}>
     <Grid  item xs={12} md={6}>
     <div className=''>
-    <iframe className="map" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3692.645191100742!2d84.89963771495385!3d22.253536985347896!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a201f72bbd561c3%3A0xab5c70e76a7b5a!2sNational%20Institute%20of%20Technology%2C%20Rourkela!5e0!3m2!1sen!2sin!4v1636323411075!5m2!1sen!2sin" style={{width:'100%', height:'50vh', border:'0px', marginTop:'2px', allowfullscreen:'', loading:'lazy'}}></iframe>
+    {/* <iframe className="map" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3692.645191100742!2d84.89963771495385!3d22.253536985347896!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a201f72bbd561c3%3A0xab5c70e76a7b5a!2sNational%20Institute%20of%20Technology%2C%20Rourkela!5e0!3m2!1sen!2sin!4v1636323411075!5m2!1sen!2sin" style={{width:'100%', height:'50vh', border:'0px', marginTop:'2px', allowfullscreen:'', loading:'lazy'}}></iframe> */}
+    <iframe className="map" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3687.581978664565!2d88.29709667591531!3d22.444754237642712!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a027ac1d54d8157%3A0x6f58f14f2ba7d42!2sIndian%20Institute%20Of%20Management%E2%80%93Calcutta%20(IIM%E2%80%93Calcutta)!5e0!3m2!1sen!2sin!4v1691695329128!5m2!1sen!2sin" style={{width:'100%', height:'50vh', border:'0px', marginTop:'2px', allowfullscreen:'', loading:'lazy'}}></iframe>
     </div>
     </Grid>
   <Grid style={{padding:'35px 35px'}} item xs={12} sm={12} md={6} lg={6} >
@@ -197,7 +198,7 @@ const Home = () => {
     </div>
     <footer id="main-footer" class="bg-dark text-center py-1">
       <div class="container">
-        <p>Copyright &copy; 2021, Converge, All Rights Reserved</p>
+        <p>Copyright &copy; 2023, Converge, All Rights Reserved</p>
       </div>
     </footer>
 
