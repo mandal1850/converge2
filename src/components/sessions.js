@@ -135,7 +135,7 @@ const Sessions = () => {
     <img src={dp2} className='img' alt='no image' loading="lazy" />
     <Card className='upctxtcard'>
     <Typography className='converge'>Samarth Goyal</Typography>
-    <Typography className='converge'>08-11-2021</Typography>
+    <Typography className='converge'>08-11-2023</Typography>
     <Typography className='converge'>12:00</Typography>
     </Card>
     </Card>
@@ -144,7 +144,7 @@ const Sessions = () => {
     <img src={dp3} className='img' alt='no image' loading="lazy" />
     <Card className='upctxtcard'>
     <Typography className='converge'>Aniket Bansal</Typography>
-    <Typography className='converge'>09-11-2021</Typography>
+    <Typography className='converge'>09-11-2023</Typography>
     <Typography className='converge'>14:00</Typography>
     </Card>
     </Card>
@@ -163,7 +163,7 @@ const Sessions = () => {
     <img src={dp1} className='img' alt='no image' loading="lazy" />
     <Card className='upctxtcard'>
     <Typography className='converge'>Ishika Singh</Typography>
-    <Typography className='converge'>03-11-2021</Typography>
+    <Typography className='converge'>03-11-2023</Typography>
     <Typography className='converge'>17:30</Typography>
     </Card>
     </Card>
