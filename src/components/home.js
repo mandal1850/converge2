@@ -63,7 +63,7 @@ const Home = () => {
     <Card className='wwdcard'>
     <Typography variant="h5" style={{textAlign:'justify'}} className='converge'>
     If you have come to us then definitely you are facing some trouble in selecting the right college for yourself.
-    Often people tend to ignore the issue this but don't worry my friend, you have come to the right place. Here your problems would not be ignored and 
+    Often people tend to ignore this issue but don't worry my friend, you have come to the right place. Here your problems would not be ignored and 
     finding soluions to your problem is the only thing we want to do.<br /> 
     <br /> 
     <br /> 
@@ -101,7 +101,7 @@ const Home = () => {
     Our Team
     </Typography>
     <Typography style={{marginBottom:'8px'}} variant="h5" className='converge'>
-    Ankush Lohani
+    Sparsh Ekka
     </Typography>
     <Typography style={{marginBottom:'8px'}} variant="h5" className='converge'>
     Ishan Mandal
